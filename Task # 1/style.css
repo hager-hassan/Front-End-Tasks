@@ -650,7 +650,7 @@ nav ul a{
     background-image: url('Bg-1.jpg');
     background-repeat: repeat-y;
     background-position: right bottom;
-    background-size: 90% 720px;
+    background-size: 100% 720px;
     width: 100%;
     overflow: hidden;
     height: 1200px;
